@@ -1,4 +1,4 @@
-/** @author Flokart Kadriu, Eroll Gorqi */
+/** @author Eroll Gorçi */
 /** Blackjack is the controller class of the game 21 (also known as BLACKJACK) */
 import javax.swing.*;
 public class Blackjack
